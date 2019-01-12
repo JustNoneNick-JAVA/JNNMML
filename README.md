@@ -5,6 +5,6 @@ All JNNMML Libraries:
 # JNNFML (Done)
 # JNNAML (Done)
 # JNNPML (Done)
-# JNNTML
+# JNNTML (Done)
 # JNNDML
 # JNNSML
