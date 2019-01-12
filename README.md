@@ -3,8 +3,8 @@ JustNoneNick Multi-Management Library.
 
 All JNNMML Libraries:
 # JNNFML (Done)
-# JNNAML
-# JNNPML
+# JNNAML (Done)
+# JNNPML (Done)
 # JNNTML
 # JNNDML
 # JNNSML
