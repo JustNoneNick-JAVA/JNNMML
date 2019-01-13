@@ -7,5 +7,5 @@ All JNNMML Libraries:
 # JNNPML (Done)
 # JNNTML (Done)
 # JNNDML
-# JNNSML
-# JNNWTM
+# JNNSML (Done)
+# JNNWTM (Done)
