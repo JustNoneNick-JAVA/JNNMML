@@ -3,16 +3,16 @@ JustNoneNick Multi-Management Library.
 
 All JNNMML Libraries:
 # JNNFML (Done) 
-JustNoneNick File-Management Library
+... File-Management Library
 # JNNAML (Done) 
-JustNoneNick Animation-Management Library
+... Animation-Management Library
 # JNNPML (Done) 
-JustNoneNick Parse-Management Library
+... Parse-Management Library
 # JNNTML (Done) 
-JustNoneNick Text-Management Library
+... Text-Management Library
 # JNNDML (Done) 
-JustNoneNick Draw-Management Library
+... Draw-Management Library
 # JNNSML (Done) 
-JustNoneNick Sound-Management Library
+... Sound-Management Library
 # JNNWTM (Done) 
-JustNoneNick Wav-To-Mp3
+... Wav-To-Mp3
